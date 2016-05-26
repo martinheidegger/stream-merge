@@ -3,8 +3,6 @@
 const test = require('tap').test
 const path = require('path')
 const streamFromArray = require('stream-from-array')
-const fs = require('fs')
-const example = path.join(__dirname, '..', 'example')
 const merge = require('../')
 const Readable = require('readable-stream').Readable
 
