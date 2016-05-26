@@ -44,7 +44,7 @@ test('empty stream', function (t) {
 
 test('non-array error', function (t) {
   t.throws(function () {
-    merge(fs.createReadStream(path.join(example, 'inputA.csv')))
+    merge('abcd')
   }, TypeError)
   t.end()
 })
