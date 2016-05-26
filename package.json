@@ -9,11 +9,9 @@
   "keywords": [
     "stream", "merge", "combine", "csv", "time series"
   ],
-  "author": "",
+  "author": "Martin Heidegger <martin.heidegger@gmail.com>",
   "license": "ISC",
   "devDependencies": {
-    "csv-parse": "^1.1.0",
-    "run-markdown": "0.0.5",
     "standard": "^7.1.0",
     "stream-from-array": "^0.1.0",
     "tap": "^5.7.1"
