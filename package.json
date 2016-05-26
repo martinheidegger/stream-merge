@@ -1,0 +1,24 @@
+{
+  "name": "stream-merge",
+  "version": "1.0.0",
+  "description": "Flexibly merge two streams based on a key together.",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard && tap -- test/*"
+  },
+  "keywords": [
+    "stream", "merge", "combine", "csv", "time series"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "csv-parse": "^1.1.0",
+    "run-markdown": "0.0.5",
+    "standard": "^7.1.0",
+    "stream-from-array": "^0.1.0",
+    "tap": "^5.7.1"
+  },
+  "dependencies": {
+    "readable-stream": "^2.1.4"
+  }
+}
