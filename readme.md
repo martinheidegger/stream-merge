@@ -2,6 +2,7 @@
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](http://standardjs.com/)
 [![npm version](https://badge.fury.io/js/stream-merge.svg)](https://badge.fury.io/js/stream-merge)
 [![Build Status](https://travis-ci.org/martinheidegger/stream-merge.svg?branch=master)](https://travis-ci.org/martinheidegger/stream-merge)
+[![Coverage Status](https://coveralls.io/repos/github/martinheidegger/stream-merge/badge.svg?branch=master)](https://coveralls.io/github/martinheidegger/stream-merge?branch=master)
 
 
 # stream-merge
