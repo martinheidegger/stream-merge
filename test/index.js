@@ -1,7 +1,6 @@
 'use strict'
 
 const test = require('tap').test
-const path = require('path')
 const streamFromArray = require('stream-from-array')
 const merge = require('../')
 const Readable = require('readable-stream').Readable
